@@ -18,6 +18,7 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           changelog-file: CHANGELOG.md
           changelog-generator-opt: "emojis=true"
+          prepend: true
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "docs(changelog): update changelog after release"
