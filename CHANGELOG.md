@@ -1,14 +1,10 @@
-## 1.1.0 (2021-07-23)
+## 1.2.0 (2021-07-23)
 
 #### 🎁 Feature
 
-* new amazing feature (56ef2395)
+* new amazing feature (d2f7b045)
 
 #### 📄 Documentation
 
-* **changelog:** update changelog after release (eb3dd0ad)
-
-#### 🔁 CI
-
-* fix prepend logic (a8dc5d99)
+* **changelog:** update changelog after release (23b20179)
 
