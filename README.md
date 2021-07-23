@@ -6,4 +6,5 @@ force new version
 force another version
 another version
 new amazing feature
+new old feature
 new feature
