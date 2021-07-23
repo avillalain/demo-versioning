@@ -18,3 +18,5 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           changelog-file: CHANGELOG.md
           changelog-generator-opt: "emojis=true;"
+      - name: Output changelog-file
+        run: cat CHANGELOG.md
