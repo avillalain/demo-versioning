@@ -18,3 +18,4 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           changelog-file: CHANGELOG.md
           changelog-generator-opt: "emojis=true;"
+      -
