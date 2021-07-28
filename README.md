@@ -8,3 +8,5 @@ another version
 new amazing feature
 new old feature
 new feature
+
+new breaking feature
