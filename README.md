@@ -10,3 +10,5 @@ new old feature
 new feature
 
 new breaking feature
+
+new amazing feature
