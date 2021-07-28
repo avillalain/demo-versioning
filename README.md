@@ -14,3 +14,5 @@ new breaking feature
 new amazing feature
 
 new breaking change
+
+something that is going to get ignored
