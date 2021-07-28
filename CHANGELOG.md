@@ -1,10 +1,13 @@
-## 2.1.0 (2021-07-28)
+## 3.0.0 (2021-07-28)
 
-#### 🎁 Feature
+#### 📣 Breaking Changes
 
-* **docs:** Adding a new amazing feature (16ce87e4)
+* new breaking change (e1bf154a)
+```
+
+```
 
 #### 📄 Documentation
 
-* **changelog:** update changelog after release (cab0c9a7)
+* **changelog:** update changelog after release (beaf5027)
 
